@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="login_jsp-servlet:war exploded">
+    <output-path>D:/apache-tomcat-8.5.43/webapps/login_jsp-servlet</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="login_jsp-servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="login_jsp-servlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
